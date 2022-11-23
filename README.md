@@ -1,1 +1,1 @@
-# How to ETL in Python 🐍🧹
+# How to ETL in Python 🐍
